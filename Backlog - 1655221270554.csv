@@ -1,0 +1,66 @@
+id,createdAt,closed,dateLastActivity,idList,name,points,desc,idMembers,membersFullName,labels,due,shortUrl,url,pos,idBoard,idShort,shortLink,subscribed,badges,idLabels,stickers,descData,idAttachementCover,attachments
+"62a80a6db0e9aa21ed351cd9","Tue Jun 14 2022 11:11:25 GMT+0700 (Indochina Time)","false","2022-06-14T07:38:09.140Z","TO DO","Sign up","","As a new user 
+I want to create an account
+ So that I can sign in the website","","","","","https://trello.com/c/kuFdZ4lv","https://trello.com/c/kuFdZ4lv/48-sign-up","262144","62a1628610365309460e1b8c","48","kuFdZ4lv","false","","","","[object Object]","","https://trello.com/1/cards/62a80a6db0e9aa21ed351cd9/attachments/62a80c0846aa5f6fa8ce58ef/download/Sign_up.png"
+"62a705567b1e2375305e56d3","Mon Jun 13 2022 16:37:26 GMT+0700 (Indochina Time)","false","2022-06-14T04:18:49.847Z","TO DO","Sign In","","As a Registered user
+I want to sign in to the system
+So that I can start using the application","","","","","https://trello.com/c/ZUl7BQg7","https://trello.com/c/ZUl7BQg7/31-sign-in","524288","62a1628610365309460e1b8c","31","ZUl7BQg7","false","","","","[object Object]","","https://trello.com/1/cards/62a705567b1e2375305e56d3/attachments/62a80c2936ef501259d4ebe0/download/Sign_in.png"
+"62a7076df266bd431acb500b","Mon Jun 13 2022 16:46:21 GMT+0700 (Indochina Time)","false","2022-06-14T04:19:25.470Z","TO DO","Forgot password","","As a registered user
+I want to have an option to reset my password
+So that I can login again to the application","","","","","https://trello.com/c/tdlbVe3t","https://trello.com/c/tdlbVe3t/32-forgot-password","589824","62a1628610365309460e1b8c","32","tdlbVe3t","false","","","","[object Object]","","https://trello.com/1/cards/62a7076df266bd431acb500b/attachments/62a80c4c6845a48d2f42542a/download/Forgot_password.png"
+"62a7086ef082c33f7007fcc3","Mon Jun 13 2022 16:50:38 GMT+0700 (Indochina Time)","false","2022-06-14T08:19:39.340Z","TO DO","Home Page","","As a user
+I want to see my Home Page after logged in
+So that I can start create event and interact with others","","","","","https://trello.com/c/jvDymPln","https://trello.com/c/jvDymPln/33-home-page","655360","62a1628610365309460e1b8c","33","jvDymPln","false","","","","[object Object]","","https://trello.com/1/cards/62a7086ef082c33f7007fcc3/attachments/62a8081e77f4c726937566df/download/homepage.png"
+"62a6a0469e818842ac5e9d10","Mon Jun 13 2022 09:26:14 GMT+0700 (Indochina Time)","false","2022-06-14T08:01:31.872Z","TO DO","Create event","","As a user:
+I want to post an event.
+So that I can show my event to others","LM","Le Hong Minh","","","https://trello.com/c/1VPM2m7x","https://trello.com/c/1VPM2m7x/19-create-event","851968","62a1628610365309460e1b8c","19","1VPM2m7x","false","","","","[object Object]","","https://trello.com/1/cards/62a6a0469e818842ac5e9d10/attachments/62a803a9c1935e84c42c1d5b/download/image.png"
+"62a7399ceb24bf13f1431679","Mon Jun 13 2022 20:20:28 GMT+0700 (Indochina Time)","false","2022-06-14T08:06:18.093Z","TO DO","Recommend people","","As a user
+I want to look for the people with similar hobbies 
+So that I can connect to recommend people
+","","","","","https://trello.com/c/Dnewt5cz","https://trello.com/c/Dnewt5cz/37-recommend-people","917504","62a1628610365309460e1b8c","37","Dnewt5cz","false","","","","[object Object]","","https://trello.com/1/cards/62a7399ceb24bf13f1431679/attachments/62a7eb6560a95a59934a5113/download/image.png, https://trello.com/1/cards/62a7399ceb24bf13f1431679/attachments/62a7ebeb4199941c50bd7658/download/image.png, https://trello.com/1/cards/62a7399ceb24bf13f1431679/attachments/62a7ec5bfd4962258eb3fb88/download/image.png"
+"62a763cee43390592fda4878","Mon Jun 13 2022 23:20:30 GMT+0700 (Indochina Time)","false","2022-06-14T08:12:19.951Z","TO DO","Home page (Notification)","","As a user 
+I want to see notification
+So that I can accept friend request or control my events ","","","","","https://trello.com/c/lSnzSfDj","https://trello.com/c/lSnzSfDj/39-home-page-notification","1048576","62a1628610365309460e1b8c","39","lSnzSfDj","false","","","","[object Object]","","https://trello.com/1/cards/62a763cee43390592fda4878/attachments/62a7eb57f2fb208c7aedabea/download/homepage_notification.png"
+"62a7643611b1d583acc26e33","Mon Jun 13 2022 23:22:14 GMT+0700 (Indochina Time)","false","2022-06-14T08:18:50.864Z","TO DO","Home page (Today's Event details)","","As a user who applied events
+I want to see details of events today
+So that I can control my events or cancel them ","","","","","https://trello.com/c/ZByPeEFf","https://trello.com/c/ZByPeEFf/40-home-page-todays-event-details","1114112","62a1628610365309460e1b8c","40","ZByPeEFf","false","","","","[object Object]","","https://trello.com/1/cards/62a7643611b1d583acc26e33/attachments/62a7ec16e812e1604bfff1be/download/homepage_eventdetails.png"
+"62a80b1012a4604609c0d480","Tue Jun 14 2022 11:14:08 GMT+0700 (Indochina Time)","false","2022-06-14T04:38:24.138Z","TO DO","Recommended keyword","","As an user 
+I want to have the ability to choose my hobbies and personalities
+ So that I can find friends with the same two ","","","","","https://trello.com/c/vO92rbks","https://trello.com/c/vO92rbks/51-recommended-keyword","1146880","62a1628610365309460e1b8c","51","vO92rbks","false","","","","[object Object]","","https://trello.com/1/cards/62a80b1012a4604609c0d480/attachments/62a80bbe56c2144859f33765/download/keyword.png"
+"62a76445934e7f53dd6f13a4","Mon Jun 13 2022 23:22:29 GMT+0700 (Indochina Time)","false","2022-06-14T08:22:19.304Z","TO DO","Home page (Search bar)","","As a user 
+I want to search people and event related to my hobbies
+So that I can make friend with others and join to my favorites events","","","","","https://trello.com/c/tfyHXJxm","https://trello.com/c/tfyHXJxm/41-home-page-search-bar","1179648","62a1628610365309460e1b8c","41","tfyHXJxm","false","","","","[object Object]","","https://trello.com/1/cards/62a76445934e7f53dd6f13a4/attachments/62a7ec6800c7d88112881bd2/download/homepage_search_box.png"
+"62a7ef762828d96677691bc1","Tue Jun 14 2022 09:16:22 GMT+0700 (Indochina Time)","false","2022-06-14T08:28:03.689Z","TO DO","Update events","","As a user
+I want to update an event
+So that I can update new event's information","","","","","https://trello.com/c/SQTxVv0h","https://trello.com/c/SQTxVv0h/42-update-events","1245184","62a1628610365309460e1b8c","42","SQTxVv0h","false","","","","[object Object]","","https://trello.com/1/cards/62a7ef762828d96677691bc1/attachments/62a805502c1d9e66e4550aad/download/image.png"
+"62a7f043681bdf84f74cff3a","Tue Jun 14 2022 09:19:47 GMT+0700 (Indochina Time)","false","2022-06-14T03:48:20.649Z","TO DO","Delete events","","As a user 
+I want to delete the events that I don't want to organized
+So that I can delete that","","","","","https://trello.com/c/Q2Ht4QvX","https://trello.com/c/Q2Ht4QvX/43-delete-events","1310720","62a1628610365309460e1b8c","43","Q2Ht4QvX","false","","","","[object Object]","","https://trello.com/1/cards/62a7f043681bdf84f74cff3a/attachments/62a8049a80158443c466689b/download/image.png, https://trello.com/1/cards/62a7f043681bdf84f74cff3a/attachments/62a804e17ebfa35443690c6e/download/image.png"
+"62a7f08614d05637aee2f694","Tue Jun 14 2022 09:20:54 GMT+0700 (Indochina Time)","false","2022-06-14T09:18:35.745Z","TO DO","Search results (All, Event, People)","","As a user
+I want to look for the people, events related to keyword 
+So that I can connect to recommend people and apply to event I care about","","","","","https://trello.com/c/dnPsqz92","https://trello.com/c/dnPsqz92/44-search-results-all-event-people","1376256","62a1628610365309460e1b8c","44","dnPsqz92","false","","","","[object Object]","","https://trello.com/1/cards/62a7f08614d05637aee2f694/attachments/62a7f09f125c2425809aa526/download/image.png"
+"62a7f1010ad72b439e411589","Tue Jun 14 2022 09:22:57 GMT+0700 (Indochina Time)","false","2022-06-14T08:31:25.763Z","TO DO","Keyword results","","As a user
+I want to find the people, events related to hashtag which i have chosen 
+So that I can approve to relevant event or people","","","","","https://trello.com/c/4Kb5KhyS","https://trello.com/c/4Kb5KhyS/45-keyword-results","1441792","62a1628610365309460e1b8c","45","4Kb5KhyS","false","","","","[object Object]","","https://trello.com/1/cards/62a7f1010ad72b439e411589/attachments/62a7f8598ed5865d180f0a08/download/image.png"
+"62a7f14a62eab85d4094a673","Tue Jun 14 2022 09:24:10 GMT+0700 (Indochina Time)","false","2022-06-14T08:40:39.696Z","TO DO","Someone's events","","As a user
+I want to see the information about other events
+So that I can apply to my interesting events ","","","","","https://trello.com/c/Pf2HJ1al","https://trello.com/c/Pf2HJ1al/46-someones-events","1507328","62a1628610365309460e1b8c","46","Pf2HJ1al","false","","","","[object Object]","","https://trello.com/1/cards/62a7f14a62eab85d4094a673/attachments/62a806d93f3b26464d1f1872/download/image.png"
+"62a7ff85ff1efe446e597f91","Tue Jun 14 2022 10:24:53 GMT+0700 (Indochina Time)","false","2022-06-14T08:48:26.024Z","TO DO","Message page","","As a user, I want to have a messages page to control all my chat history with my friends","","","","","https://trello.com/c/eXTVcdgO","https://trello.com/c/eXTVcdgO/47-message-page","1572864","62a1628610365309460e1b8c","47","eXTVcdgO","false","","","","[object Object]","","https://trello.com/1/cards/62a7ff85ff1efe446e597f91/attachments/62a8008d28f368112bd4c72b/download/image.png, https://trello.com/1/cards/62a7ff85ff1efe446e597f91/attachments/62a80108b0e97e46f18f11c8/download/image.png"
+"62a80af08f049776ee0c5af0","Tue Jun 14 2022 11:13:36 GMT+0700 (Indochina Time)","false","2022-06-14T08:50:33.558Z","TO DO","Profile","","As a user 
+I want to change my profile
+So that I reset the new information
+","","","","","https://trello.com/c/VJ26EG7j","https://trello.com/c/VJ26EG7j/50-profile","1605632","62a1628610365309460e1b8c","50","VJ26EG7j","false","","","","[object Object]","","https://trello.com/1/cards/62a80af08f049776ee0c5af0/attachments/62a80b0cf95f1a2040977d78/download/image.png"
+"62a80a95af2ef61b76d08eea","Tue Jun 14 2022 11:12:05 GMT+0700 (Indochina Time)","false","2022-06-14T08:52:04.584Z","TO DO","Edit Profile","","As a user 
+I want to check my profile 
+So that I can have a profile completed
+","","","","","https://trello.com/c/ddhN6XDn","https://trello.com/c/ddhN6XDn/49-edit-profile","1638400","62a1628610365309460e1b8c","49","ddhN6XDn","false","","","","[object Object]","","https://trello.com/1/cards/62a80a95af2ef61b76d08eea/attachments/62a80ac7ce44451576910b4e/download/image.png"
+"62a80b9f42a7e52f01bb34cd","Tue Jun 14 2022 11:16:31 GMT+0700 (Indochina Time)","false","2022-06-14T08:54:55.864Z","TO DO","SO profile","","As  a user
+I want see other people's information
+So that I can check the event which they attended 
+","","","","","https://trello.com/c/0mqsmMNg","https://trello.com/c/0mqsmMNg/53-so-profile","1835008","62a1628610365309460e1b8c","53","0mqsmMNg","false","","","","[object Object]","","https://trello.com/1/cards/62a80b9f42a7e52f01bb34cd/attachments/62a80bb28390267d05a34d4f/download/image.png"
+"62a7090054293c02d6e99cde","Mon Jun 13 2022 16:53:04 GMT+0700 (Indochina Time)","false","2022-06-14T04:37:36.965Z","TO DO","UI Design Concept","","As a Developer
+I want to have all the Design concept of all elements in our application
+So that when I develop a page, I can just use the design elements to make it consistent","","","","","https://trello.com/c/YbWe2rN3","https://trello.com/c/YbWe2rN3/34-ui-design-concept","1867776","62a1628610365309460e1b8c","34","YbWe2rN3","false","","","","[object Object]","",""
+"62a70a34adaa57133f7ea987","Mon Jun 13 2022 16:58:12 GMT+0700 (Indochina Time)","false","2022-06-14T04:37:26.864Z","TO DO","Database Model","","As a developer
+I want to have the database model design with relationship between table
+So that I can start developing backend","","","","","https://trello.com/c/XB3l0lG0","https://trello.com/c/XB3l0lG0/35-database-model","1900544","62a1628610365309460e1b8c","35","XB3l0lG0","false","","","","[object Object]","",""

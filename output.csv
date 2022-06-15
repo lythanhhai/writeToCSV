@@ -1,0 +1,170 @@
+Id Card,Name,Description,User Stories
+62a80a6db0e9aa21ed351cd9,Sign up,"As a new user 
+I want to create an account
+ So that I  sign in the website","- Can I just use email to create an account?
+- Can I enter a password with more than 8 characters include special characters ?
+- Can I get an confirmation email to confirm?
+- Can I receive an notification if I have an invalid input?
+Can I get a warning if I re-type password different with before password
+Can I go to Log in page without sign up?
+"
+62a705567b1e2375305e56d3,Sign In,"As a Registered user
+I want to sign in to the system
+So that I can start using the application","Can I ONLY login with email
+Can I see password hidden when typing
+Can I have the option when I forget password
+Can I sign in with Google
+Can I have option to Sign Up with I don't have account yet
+Can I have option to switch between Vietnamese and English
+Can I have validation message when user failed login
+"
+62a7076df266bd431acb500b,Forgot password,"As a registered user
+I want to have an option to reset my password
+So that I can login again to the application","Can I enter my email then the system will send me an email to reset my password
+When I click on the link in the email, it will open the web page that I can enter my new password.
+Can I type the password twice to make sure I enter the correct one.
+"
+62a7086ef082c33f7007fcc3,Home Page,"As a user
+I want to see my Home Page after logged in
+So that I can start create event and interact with others","Can i see events of my friends, recommend events in newsfeed?
+Can i see detail event when i click in event?
+Can i search event or people by keyword in search box?
+Can i go to my profile when i click in my avatar?
+Can i see the recommend keywords(hobbies & personality) and people
+Can i see the events, people when i click in keywords recommend?
+Can i send the add friend request to recommend people?
+can i create event when i click in create event card?
+Can i go to the message page when i click in chat icon?
+Can i see the pop-up notification when i click in notification icon?
+Can i see my today's event?
+Can i see detail my today's event when i click it?
+Can i chat with my friends with a mini chat-box when i click in my friend?
+Can i logout when i click logout button?
+Can the event list be sorted by time?
+"
+62a6a0469e818842ac5e9d10,Create event,"As a user:
+I want to post an event.
+So that I can show my event to others","Can I write title, description?
+Can i choose location?
+Can i limit the amount of people for event?
+Can i upload related event images? Does limited the amount of images?
+Can i choose time for event?
+Can I choose or search for keywords?
+Are keywords mandatory?
+Can I empty description/images?
+"
+62a7399ceb24bf13f1431679,Recommend people,"As a user
+I want to look for the people with similar hobbies 
+So that I can connect to recommend people","Can I see people nearby?
+Can I send friend request to people in recommended list?
+Can I see other profile when I click in recommended list ?
+Can I remove people in recommended list?
+"
+62a763cee43390592fda4878,Home page (Notification),"As a user 
+I want to see notification
+So that I can accept friend request or control my events ","Do notifications show time of events?
+ turn off notifications?
+Can I delete old notifications?
+Can I refresh notifications?
+Can I click on events are shown in notification?
+"
+62a7643611b1d583acc26e33,Home page (Today's Event details),"As a user who applied events
+I want to see details of events today
+So that I can control my events or cancel them ","Can I cancel today's event?
+Can I re-apply cancelled event?
+Can i cancel all events today?
+"
+62a80b1012a4604609c0d480,Recommended keyword,"As an user 
+I want to have the ability to choose my hobbies and personalities
+ So that I can find friends with the same two ","- Can I add a new hobbies or personalities?
+- Can I re-select the hobbies or personalities?
+- Can I search for any hobbies or personalities?
+"
+62a76445934e7f53dd6f13a4,Home page (Search bar),"As a user 
+I want to search people and event related to my hobbies
+So that I can make friend with others and join to my favorites events","Can I search for a person's name?
+Can I search the address or location in the search bar?
+Can I have suggestions when searching?
+Can I search by personality, hobbies?
+Can I search by the topic of the event?
+"
+62a7ef762828d96677691bc1,Update events,"As a user
+I want to update an event
+So that I can update new event's information","When the event updated, Can people who applied to event will receive the notifications?
+Can I update my hobbies, title, location, name and other  information on my events?
+"
+62a7f043681bdf84f74cff3a,Delete events,"As a user 
+I want to delete the events that I don't want to organized
+So that I can delete that","Can I delete all the events
+Can I delete just one event
+Can I get a warning alert when I delete an event
+"
+62a7f08614d05637aee2f694,"Search results (All, Event, People)","As a user
+I want to look for the people, events related to keyword 
+So that I can connect to recommend people and apply to event I care about","Can I see people and events related to keyword?
+Can I send friend request to people in search results?
+Can I see profile of people in search results?
+Can I send apply to event in search results?
+Can I see detail information of event in search results?
+Can I see the result depend on place?
+"
+62a7f1010ad72b439e411589,Keyword results,"As a user
+I want to find the people, events related to hashtag which i have chosen 
+So that I can approve to relevant event or people","Can I see people and events related to keyword?
+Can I send friend request to people in search results?
+Can I see profile of people in keyword results?
+Can I apply to event in keyword results?
+Can I see detail information of event in keyword results?
+"
+62a7f14a62eab85d4094a673,Someone's events,"As a user
+I want to see the information about other events
+So that I can apply to my interesting events ","Can I apply the events I want to join?
+How many other events I can apply for
+Can I see the details of these events
+Can I re-apply events that I cancelled before
+"
+62a7ff85ff1efe446e597f91,Message page,"As a user, I want to have a messages page to control all my chat history with my friends
+undefined
+undefined","Can I block someone?
+Can I delete my chat history?
+Can I delete a message
+Can I recall message
+Can I send images, files?
+Can I see the status of message when I send it (seen, not seen)
+"
+62a80af08f049776ee0c5af0,Profile,"As a user 
+I want to change my profile
+So that I reset the new information","Can I set up  the status blank?
+Can I select the avt?
+Can I edit my profile?
+Can I see comments of other people?
+"
+62a80a95af2ef61b76d08eea,Edit Profile,"As a user 
+I want to check my profile 
+So that I can have a profile completed","can I change my name, my hobbies?
+Can I delete the comment about me?
+Can I select my background ?
+Can I select the avatar?
+Can I edit my introduce myself?
+Can i search hobbies and select them?
+"
+62a80b9f42a7e52f01bb34cd,SO profile,"As  a user
+I want see other people's information
+So that I can check the event which they attended ","Can I report someone else ?
+Can i see the comments about that people?
+Can I send friend request to this people?
+Can I comment on this person?
+Can I unfriend if we were friend?
+"
+62a7090054293c02d6e99cde,UI Design Concept,"As a Developer
+I want to have all the Design concept of all elements in our application
+So that when I develop a page, I can just use the design elements to make it consistent","Can I have 1 document to define all rules of design (buttons, font, color ...)
+Can I have one sample of Home page (using photoshop or whatever tool), to see how a page look like
+Can I have a css stylesheet, that defines all the elements
+"
+62a70a34adaa57133f7ea987,Database Model,"As a developer
+I want to have the database model design with relationship between table
+So that I can start developing backend","Can I have all the DB table design
+Can I see the team select 1 database to implement the model
+Can I see some queries with some simple tasks (sign up. reset password, search  for people, create event ...)
+"
